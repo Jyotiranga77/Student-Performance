@@ -15,6 +15,8 @@ This project is developed using Python and machine learning techniques to predic
 ### 💡 Purpose:
 To help coaching institutes identify students at risk of underperforming and personalize their learning strategy for better outcomes.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jyotiranga77/Student-Performance/blob/main/Student_Performance_Prediction.ipynb)
+
 ---
 
 🔗 Developed as part of learning module under YBI Foundation.
